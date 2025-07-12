@@ -1,0 +1,6 @@
+@Railwaybackproject_HostAddress = http://localhost:5201
+
+GET {{Railwaybackproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
